@@ -150,7 +150,7 @@ img{
 #the_safe_campus{
     color: grey;
     font-family: Segoe UI;
-    font-size: 20px;
+    font-size: 0.5rem;
     text-align: center;
     padding-top: 10px;
 }
@@ -638,4 +638,5 @@ img{
 #h24h{
 
     justify-content:space-around;
+
 } */
